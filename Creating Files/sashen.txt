@@ -1,0 +1,5 @@
+01 - Sashen = Sashen is a Porgrammer
+02 - Hiruni = Hiruni is a Doctor
+03 - Amila = Amila is a Teacher
+04 - Senal = Senal is a Driver
+05 = Chathura = Chathura is a Army officer 
